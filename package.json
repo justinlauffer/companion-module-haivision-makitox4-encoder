@@ -16,7 +16,7 @@
 	},
 	"devDependencies": {
 		"@companion-module/tools": "^2.3.0",
-		"jimp": "^0.22.10",
+		"jimp": "^1.6.0",
 		"prettier": "^3.5.3"
 	},
 	"prettier": "@companion-module/tools/.prettierrc.json",
