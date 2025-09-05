@@ -22,23 +22,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@companion-module/tools@npm:^2.3.0":
-  version: 2.3.0
-  resolution: "@companion-module/tools@npm:2.3.0"
+"@companion-module/tools@npm:^2.4.0":
+  version: 2.4.0
+  resolution: "@companion-module/tools@npm:2.4.0"
   dependencies:
-    "@eslint/js": "npm:^9.19.0"
-    eslint-config-prettier: "npm:^10.0.1"
-    eslint-plugin-n: "npm:^17.15.1"
-    eslint-plugin-prettier: "npm:^5.2.3"
+    "@eslint/js": "npm:^9.34.0"
+    eslint-config-prettier: "npm:^10.1.8"
+    eslint-plugin-n: "npm:^17.21.3"
+    eslint-plugin-prettier: "npm:^5.5.4"
     find-up: "npm:^7.0.0"
     parse-author: "npm:^2.0.0"
-    semver: "npm:^7.7.1"
+    semver: "npm:^7.7.2"
     tar: "npm:^7.4.3"
-    webpack: "npm:^5.97.1"
+    webpack: "npm:^5.101.3"
     webpack-cli: "npm:^6.0.1"
-    zx: "npm:^8.3.2"
+    zx: "npm:^8.8.1"
   peerDependencies:
-    "@companion-module/base": ^1.11.0
+    "@companion-module/base": ^1.12.0
     eslint: ^9.0.0
     prettier: ^3.0.0
     typescript-eslint: ^8.2.0
@@ -53,7 +53,7 @@ __metadata:
     companion-generate-manifest: scripts/generate-manifest.js
     companion-module-build: scripts/build.js
     companion-module-check: scripts/check.js
-  checksum: 10c0/49baa2415a62e9763d8d185d3d944a68cbfb5e41f2d382a0d8e0cd69902ccc4a80a92783a0ab95c9b5fbc0ca4464c028423bb5fc3347149cd1bae1ab6bf4b10c
+  checksum: 10c0/93b942a779805046f3d5105b18f3ace933cb19fd82bc44dfef2e3fd31dc13fd626ff7adbfb4c5c034fbf8971f2771f1750f64827d829336450b580e5e8f8f76a
   languageName: node
   linkType: hard
 
@@ -82,7 +82,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/js@npm:^9.19.0":
+"@eslint/js@npm:^9.34.0":
   version: 9.34.0
   resolution: "@eslint/js@npm:9.34.0"
   checksum: 10c0/53f1bfd2a374683d9382a6850354555f6e89a88416c34a5d34e9fbbaf717e97c2b06300e8f93e5eddba8bda8951ccab7f93a680e56ded1a3d21d526019e69bab
@@ -1080,7 +1080,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^10.0.1":
+"eslint-config-prettier@npm:^10.1.8":
   version: 10.1.8
   resolution: "eslint-config-prettier@npm:10.1.8"
   peerDependencies:
@@ -1104,7 +1104,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-n@npm:^17.15.1":
+"eslint-plugin-n@npm:^17.21.3":
   version: 17.21.3
   resolution: "eslint-plugin-n@npm:17.21.3"
   dependencies:
@@ -1123,7 +1123,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-prettier@npm:^5.2.3":
+"eslint-plugin-prettier@npm:^5.5.4":
   version: 5.5.4
   resolution: "eslint-plugin-prettier@npm:5.5.4"
   dependencies:
@@ -1366,7 +1366,7 @@ __metadata:
   resolution: "haivision-maktiox4-encoder@workspace:."
   dependencies:
     "@companion-module/base": "npm:~1.11.3"
-    "@companion-module/tools": "npm:^2.3.0"
+    "@companion-module/tools": "npm:^2.4.0"
     jimp: "npm:^0.22.10"
     prettier: "npm:^3.5.3"
   languageName: unknown
@@ -2057,7 +2057,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.5.4, semver@npm:^7.6.3, semver@npm:^7.7.1":
+"semver@npm:^7.5.4, semver@npm:^7.6.3, semver@npm:^7.7.2":
   version: 7.7.2
   resolution: "semver@npm:7.7.2"
   bin:
@@ -2369,7 +2369,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack@npm:^5.97.1":
+"webpack@npm:^5.101.3":
   version: 5.101.3
   resolution: "webpack@npm:5.101.3"
   dependencies:
@@ -2499,7 +2499,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zx@npm:^8.3.2":
+"zx@npm:^8.8.1":
   version: 8.8.1
   resolution: "zx@npm:8.8.1"
   bin:
