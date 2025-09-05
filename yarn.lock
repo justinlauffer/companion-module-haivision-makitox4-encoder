@@ -5,20 +5,20 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@companion-module/base@npm:~1.11.3":
-  version: 1.11.3
-  resolution: "@companion-module/base@npm:1.11.3"
+"@companion-module/base@npm:~1.13.1":
+  version: 1.13.1
+  resolution: "@companion-module/base@npm:1.13.1"
   dependencies:
     ajv: "npm:^8.17.1"
     colord: "npm:^2.9.3"
     ejson: "npm:^2.2.3"
     eventemitter3: "npm:^5.0.1"
     mimic-fn: "npm:^3.1.0"
-    nanoid: "npm:^3.3.8"
+    nanoid: "npm:^3.3.11"
     p-queue: "npm:^6.6.2"
     p-timeout: "npm:^4.1.0"
     tslib: "npm:^2.8.1"
-  checksum: 10c0/19acbc544de97ed8f02abf03e1d657085e51f0e92363456a84bdc1975723ba1bdfc0e943ff17444cb4e6a2b588abb794a9c5b48efb4d784be32784362e7c4efd
+  checksum: 10c0/6aca773d7be9c7244d735750c0d7f91eadec86660571386a8e04f2e6458515b08fa2d70863cfd5d80046abeb817c2b87addf5104ef41b7242f64fea3d16273d2
   languageName: node
   linkType: hard
 
@@ -1365,7 +1365,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "haivision-maktiox4-encoder@workspace:."
   dependencies:
-    "@companion-module/base": "npm:~1.11.3"
+    "@companion-module/base": "npm:~1.13.1"
     "@companion-module/tools": "npm:^2.3.0"
     jimp: "npm:^0.22.10"
     prettier: "npm:^3.5.3"
@@ -1644,7 +1644,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nanoid@npm:^3.3.8":
+"nanoid@npm:^3.3.11":
   version: 3.3.11
   resolution: "nanoid@npm:3.3.11"
   bin:
