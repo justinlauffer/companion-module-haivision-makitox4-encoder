@@ -12,7 +12,7 @@
 		"url": "git+https://github.com/justinlauffer/companion-module-haivision-makitox4-encoder.git"
 	},
 	"dependencies": {
-		"@companion-module/base": "~1.11.3"
+		"@companion-module/base": "~1.13.2"
 	},
 	"devDependencies": {
 		"@companion-module/tools": "^2.3.0",
